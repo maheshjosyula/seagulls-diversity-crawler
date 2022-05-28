@@ -9,7 +9,7 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.hackathon.research</groupId>
-	<artifactId>seagulls-diversity-crawler</artifactId>
+	<artifactId>seagullsdiversitycrawler</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>seagulls-diversity-crawler</name>
 	<description>seagulls diversity crawler</description>

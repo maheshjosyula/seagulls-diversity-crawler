@@ -1,4 +1,4 @@
-package com.hackathon.research;
+package com.hackathon.research.seagullsdiversitycrawler;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

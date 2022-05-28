@@ -1,4 +1,4 @@
-package com.hackathon.research;
+package com.hackathon.research.seagullsdiversitycrawler;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
