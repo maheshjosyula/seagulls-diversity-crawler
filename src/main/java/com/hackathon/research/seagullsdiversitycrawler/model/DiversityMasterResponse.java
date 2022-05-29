@@ -12,6 +12,26 @@ public class DiversityMasterResponse {
 
     String status;
 
+    String identificationProcess;
+
+    String certificationType;
+
+    public String getCertificationType() {
+        return certificationType;
+    }
+
+    public void setCertificationType(String certificationType) {
+        this.certificationType = certificationType;
+    }
+
+    public String getIdentificationProcess() {
+        return identificationProcess;
+    }
+
+    public void setIdentificationProcess(String identificationProcess) {
+        this.identificationProcess = identificationProcess;
+    }
+
     public String getStatus() {
         return status;
     }
